@@ -35,14 +35,14 @@ models:
   marvel_dbt:
       # Applies to all files under models/example/
     warehouse:
-        schema: warehouse
+        schema: WAREHOUSE
         materialized: table
     staging: 
-        schema: staging
+        schema: STAGING
         materialized: table
     conformed: 
-        schema: conformed
+        schema: CONFORMED
         materialized: table
     seed: 
-        schema: seed
+        schema: SEED
        
