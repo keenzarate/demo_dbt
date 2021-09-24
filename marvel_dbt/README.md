@@ -17,3 +17,7 @@ a more complicated data.
 
 #### _Database use to run these models is Snowflake_
 
+## To Do's
+* create view models
+* create simple plots and tables (use Looker)
+
