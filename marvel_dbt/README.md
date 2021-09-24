@@ -11,3 +11,7 @@ a more complicated data.
 * *stage*
   * models built to apply general data cleaning such as creating a consistent value for a year column for instance (e.g. 1819 vs 2018-2019)
 
+
+
+#### _Database use to run these models is Snowflake_
+
