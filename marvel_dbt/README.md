@@ -1,5 +1,5 @@
 ## This project is a simple dbt modeling project
-###### *_this is a working progress_*
+###### *_this is a work in progress_*
 
 ### Data was downloaded from Kaggle and is meant to be a simple dataset 
 
