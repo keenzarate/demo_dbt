@@ -1,5 +1,5 @@
 ## This project is a simple dbt modeling project
-###### *_this is a work in progress_*
+
 
 ### Data was downloaded from Kaggle and is meant to be a simple dataset 
 
@@ -13,7 +13,7 @@ a more complicated data.
 * *stage*
   * models built to apply general data cleaning such as creating a consistent value for a year column for instance (e.g. 1819 vs 2018-2019)
 
-
+###### *_this is a work in progress_*
 
 #### _Database use to run these models is Snowflake_
 
