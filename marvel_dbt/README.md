@@ -1,6 +1,8 @@
 ## This project is a simple dbt modeling project
+###### *_this is a working progress_*
 
 ### Data was downloaded from Kaggle and is meant to be a simple dataset 
+
 
 I've created various models here despite the simplicity of the data. This 
 is meant to mimick how I would go about building a dbt data structure for 
