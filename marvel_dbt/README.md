@@ -19,5 +19,6 @@ a more complicated data.
 
 ## To Do's
 * create view models
-* create simple plots and tables (use Looker)
+* create simple plots and tables 
+* use Looker to show models and tables
 
