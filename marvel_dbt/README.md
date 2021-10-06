@@ -15,7 +15,7 @@ a more complicated data.
 
 ###### *_this is a work in progress_*
 
-#### _Database use to run these models is Snowflake_
+#### _Database use to run these models is Snowflake_ -- although might transition to Postgres after free trial ends 
 
 ## To Do's
 * create view models
